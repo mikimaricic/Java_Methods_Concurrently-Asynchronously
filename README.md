@@ -4,7 +4,7 @@ Simple java program with 2 methods. One method prints “Hello” and the other 
 ## Requirements
   - Visual Studio Code "Java Extension Pack" plugin.
 
-## Steps to prepare clean machine (you can skip install already installed programs on your machine)
+## Steps to prepare your machine
   - Install Git (https://git-scm.com/download/win)
   - Clone repo: 'https://github.com/mikimaricic/Java_Methods_Concurrently-Asynchronously.git'
   - Install Visual Studio Code "Java Extension Pack" plugin
